@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mí
 
-- 🛠️ Actualmente trabajando en: **[Tu proyecto actual o área de interés]**
+- 🛠️ Actualmente trabajando en: **[pentesting -developer web and software]**
 - 📚 Dominio técnico en: **Python, MySQL, Java, JavaScript y Rust.**
 - 💡 Creo firmemente en el código limpio y en la importancia de la ciberseguridad.
 - 💬 Pregúntame sobre: **Backend, optimización de consultas o por qué Rust es increíble.**
